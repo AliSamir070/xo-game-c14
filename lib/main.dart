@@ -3,6 +3,9 @@ import 'package:x_o_c14/board_screen.dart';
 import 'package:x_o_c14/home_screen.dart';
 
 void main() {
+  print("Route");
+
+
   runApp(const MyApp());
 }
 
